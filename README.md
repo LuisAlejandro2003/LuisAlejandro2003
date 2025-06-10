@@ -10,7 +10,6 @@
   <li>👋 Hi, I’m @LuisAlejandro2003</li>
   <li>❤️ I love Creating websites and Programming</li>
   <li>🌱 I’m currently learning Web Development, Android Development.</li>
-  <li>💼 I'm a Back end developer at Prediction Soft.</li>
   <li>🧐 Portfolio Website, https://LoEstoyHaciendo.com/</li>
 </ul>
 

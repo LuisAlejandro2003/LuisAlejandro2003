@@ -49,10 +49,6 @@ Tools          Claude Code, Git, Obsidian, MCP Servers
 
 ---
 
-### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisAlejandro2003&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
 
 <sub>Open to collaboration on AI-driven products and applied LLM systems.</sub>
